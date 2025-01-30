@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mohamed Bentaleb, and I'm a student at 1337 coding school at UM6P, from Morocco.</p>
+<p align="left">My name is Mohamed Bentaleb, and I'm a student at 1337 coding school at UM6P, Benguerir, in Morocco.</p>
 
 ###
 
