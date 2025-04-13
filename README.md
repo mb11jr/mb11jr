@@ -12,7 +12,7 @@
 
 <p align="left">✨ I recently started my journey in the world of programming<br>📚 I'm currently learning C programming and front-end development. <br>🎯 Goals: I'm aspiring to become a full-stack developer and enhance my coding skills.
   (Every expert started as a beginner)
-  <br>🎲 Fun fact: I love doing impressions and I'm really interested in voice-over, graphic design, and anything related to design in general. </p>
+  <br>🎲 Fun fact: I love doing impressions and I'm interested in voice-over, graphic design, and anything related to design in general. </p>
 
 ###
 
@@ -24,7 +24,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
