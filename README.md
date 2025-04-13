@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">✨ Recently started my journey in the world of programming<br>📚 I'm currently learning C programming language, Html, CSS, JavaScript Shell, and Git <br>🎯 Goals: to learn as much as I can and focus on long term learning while enjoying my journey<br>🎲 Fun fact: I love doing voice over and impressions, and I'm more into the graphics and design part :)</p>
+<p align="left">✨ I recently started my journey in the world of programming<br>📚 I'm currently learning C programming and front-end development. <br>🎯 Goals: I'm aspiring to become a full-stack developer and enhance my coding skills.
+  (Everyone expert started as a beginner)
+  <br>🎲 Fun fact: I love doing impressions and I'm really interested in voice-over, graphic design, and anything related to design in general. </p>
 
 ###
 
@@ -22,8 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/html-original.svg" height="40" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/css-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/html5-original.svg" height="40" alt="html logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/css-original.svg" height="40" alt="css logo"  />
 </div>
 
 ###
