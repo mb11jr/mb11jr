@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mohamed Bentaleb, and I'm a student at 1337 coding school at UM6P, Benguerir, in Morocco.</p>
+<p align="left">My name is Mohamed Bentaleb, and I'm currently a student at 1337 coding school at UM6P, based in Benguerir, Morocco.</p>
 
 ###
 
@@ -25,8 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
