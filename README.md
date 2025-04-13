@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Recently started my journey in the world of programming<br>📚 I'm currently learning C programming language, Shell, and Git <br>🎯 Goals: to learn as much as I can and focus on long term learning while enjoying my journey<br>🎲 Fun fact: I love doing voice over and impressions, and I'm more into the graphics and design part :)</p>
+<p align="left">✨ Recently started my journey in the world of programming<br>📚 I'm currently learning C programming language, Html, CSS, JavaScript Shell, and Git <br>🎯 Goals: to learn as much as I can and focus on long term learning while enjoying my journey<br>🎲 Fun fact: I love doing voice over and impressions, and I'm more into the graphics and design part :)</p>
 
 ###
 
@@ -22,6 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/html-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/css-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
