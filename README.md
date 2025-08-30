@@ -11,7 +11,7 @@
 ###
 
 <p align="left">✨ I recently started my journey in the world of programming.<br>📚 I'm currently learning low-level programming (C/C++) and front-end development. <br>🎯 Goals: I'm aspiring to become a full-stack developer and enhance my coding skills.
-  (Every expert started as a beginner)<br>🎲 Fun fact: I love doing impressions and I'm interested in voice-over, graphic design, and anything related to design in general.</p>
+  <br>🎲 Fun fact: I love doing impressions and I'm interested in voice-over, graphic design, and anything related to design in general.</p>
 
 ###
 
